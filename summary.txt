@@ -1,0 +1,20 @@
+This assignment focuses on performing Exploratory Data Analysis (EDA) on a student marks dataset using the Python data science stack.
+Using Pandas, I loaded and processed the data to calculate descriptive statistics, revealing a mean Maths score of 80.6 and a median of 81.
+This close alignment between mean and median indicates a generally symmetrical distribution of data points.
+To measure the spread of performance, I calculated the standard deviation, which quantifies how much the students' scores deviate from the class average.
+
+The core of the analysis involved data visualization using Matplotlib to create a frequency distribution histogram.
+The "Frequency" or "Number of Students" on the Y-axis represents the student count, which visually highlights a bimodal distribution with peaks at the 75 and 85-mark intervals. 
+This visualization was instrumental in identifying a lower-end outlier (score of 66), representing a performance gap that summary statistics alone might overlook. 
+This project demonstrates proficiency in transforming raw data into actionable academic insights through programmatic analysis.
+By combining statistical rigor with visual storytelling, the final output provides a clear overview of class competency and identifies areas for potential educational intervention.
+
+Technical Workflow Highlights
+
+Libraries: pandas for data structures, matplotlib.pyplot for visualization.
+
+Statistical Metrics: Mean, Median, Mode, and Standard Deviation.
+
+Key Findings: Identification of two high-frequency clusters and one significant outlier.
+
+Deliverables: Cleanly documented Jupyter Notebook with integrated plots and data interpretations.
