@@ -5,8 +5,8 @@ This repository contains the Week 1 Data Science assignment.
 The task was to perform basic data analysis on a student marks dataset using Python.
 
 ## Contents
-- `student_marks.csv` : The dataset containing marks of students in multiple subjects.
-- `week1_data_analysis.ipynb` : Jupyter Notebook with Python code for data analysis, 
+- `StudentMarks.csv` : The dataset containing marks of students in multiple subjects.
+- `week1_DataScience` : Google Colab/Jupyter Notebook with Python code for data analysis, 
   including descriptive statistics, visualizations (histograms and boxplots), 
   and interpretation of insights.
 
